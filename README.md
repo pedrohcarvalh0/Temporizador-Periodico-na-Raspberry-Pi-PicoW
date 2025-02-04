@@ -4,13 +4,7 @@ Este projeto implementa um **semáforo simples** utilizando a **Raspberry Pi Pic
 
 ---
 
-## 👨‍💻 Desenvolvedor
-
-- **Pedro Henrique Carvalho Felix**
-
----
-
-## 🛠️ Funcionalidades
+##  Funcionalidades
 
 1. **Alternância entre os LEDs** 🚥:
    - O semáforo segue a sequência: **Vermelho → Amarelo → Verde → Vermelho**.
@@ -25,7 +19,7 @@ Este projeto implementa um **semáforo simples** utilizando a **Raspberry Pi Pic
 
 ---
 
-## 👋 Requisitos
+##  Requisitos
 
 ```plaintext
 🔧 Hardware:
@@ -41,7 +35,7 @@ Este projeto implementa um **semáforo simples** utilizando a **Raspberry Pi Pic
 
 ---
 
-## 🧙️ Configuração do Hardware
+## Configuração do Hardware
 
 ```plaintext
 1. Conecte os LEDs RGB:
